@@ -5,6 +5,7 @@ Node-RED node for play-sound (based on nodejs play-sound : Play sounds by shelli
 ## Install
 Run the following npm command in your Node-RED environment.
 ```
+sudo apt-get install sox libsox-fmt-all -y
 npm install node-red-contrib-play-sound
 ```
 
