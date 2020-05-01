@@ -1,9 +1,14 @@
 # node-red-contrib-play-sound
 
 1、node-red-contrib-play-sound这个插件依赖系统播放器，需要先装，
+
 2、经测试mplayer播放器延迟有1秒吧
+
 3、sox播放器速度还可以，基本上感觉不到延迟
+
 4、所以在使用node-red这个插件前安装sudo apt-get install sox libsox-fmt-all -y
+
+
 
 ## Install
 Run the following npm command in your Node-RED environment.
